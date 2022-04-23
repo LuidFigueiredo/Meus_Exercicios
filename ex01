@@ -1,0 +1,7 @@
+print (" O CARRO ESTAR EM SILENCIO")
+num = int(input( " 1 (SIM) 2 (NÃO): "))
+
+if num == 1 :
+    print(" OK CARRO NÃO ESTAR QUEBRADO")
+if num == 2 :
+    print(" O SEU CARRO PRECISA DE MANUTENÇÃO ")
