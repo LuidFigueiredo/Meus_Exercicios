@@ -1,0 +1,6 @@
+# Faca um programa que leia um numero inteiro e mostre seu sucessor e antecessor
+
+n = int(input("DIGITE UM NUMERO:"))
+a = n - 1
+s = n + 2
+print("analisando o valor {} seu seu antecessor é {} e seu sucessor é {}".format(n,a,s,))
