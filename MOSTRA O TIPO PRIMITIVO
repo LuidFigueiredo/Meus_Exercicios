@@ -1,0 +1,8 @@
+a = input("DIGITE ALGO:")
+print("O TIPO PRIMTIIVO DESSE VALOR:", type(a))
+print("SÓ TEM ESPAÇO:",a.isspace())
+print("É UN NUMERO",a.isnumeric())
+print("É UM ALFABETO ", a.isalpha())
+print("É UM ALFANUMERICO",a.isalnum())
+print("ESTÁ EM MAIUSCULA", a.isupper())
+print("ESTÁ EM MINUSCULA", a.islower())
